@@ -142,3 +142,8 @@ Going off of the specifications, I felt that they helped me a lot when it came t
 Example 1: I used AI to review a few things that I did, such as my prompt, my hyperameter, and my explanations, to make sure that things made sense and that I was doing things correctly. I would mostly just copy and paste or screenshot whatever I needed assistance and review with and submit it to claude for recommendations.
 
 Example 2: Finding themes inbetween my failed test cases. I copied all my failed test cases, pasted it into claude's chatbot, and asked it to find any common themes or patterns between these test cases.
+
+Example 3: I had to make an extra cell for my demo video so I could showcase 3-5 tests being predicted. I gave claude an explanation of my video and asked it how I should approach showcasing these specific test cases in my demo.
+
+Demo Video:
+https://youtu.be/mC1Tr-SybMo
